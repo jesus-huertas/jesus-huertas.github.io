@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-18'
 papers:
   Zj2wX9MAAAAJ:2osOgNQ5qMEC:
     citations: 9
@@ -50,6 +50,6 @@ papers:
     title: Pseudo-bounces vs. new instantons
     year: '2021'
   Zj2wX9MAAAAJ:zYLM7Y9cAGgC:
-    citations: 0
+    citations: 1
     title: 'SymTFT Fans: The Symmetry Theory of 4d N= 4 Super Yang-Mills on spaces with boundaries'
     year: '2024'
