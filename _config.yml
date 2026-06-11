@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Title # the website title (if blank, full name will be used instead)
+title:  # the website title (if blank, full name will be used instead)
 first_name: Jesus
-middle_name: 
+middle_name: R.
 last_name: Huertas
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
