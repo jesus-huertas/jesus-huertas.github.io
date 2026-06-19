@@ -238,7 +238,7 @@ exclude:
   - gems/
   - migrations/
   - vendor
-  - _books/
+  - _pages/books.md
 keep_files:
   - CNAME
   - .nojekyll
