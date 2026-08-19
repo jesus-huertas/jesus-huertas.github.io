@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-19'
 papers:
   Zj2wX9MAAAAJ:2osOgNQ5qMEC:
     citations: 10
@@ -10,15 +10,15 @@ papers:
     title: Small black hole explosions
     year: '2023'
   Zj2wX9MAAAAJ:IjCSPb-OGe4C:
-    citations: 46
+    citations: 47
     title: Aspects of dynamical cobordism in AdS/CFT
     year: '2023'
   Zj2wX9MAAAAJ:Tyk-4Ss8FVUC:
-    citations: 19
+    citations: 20
     title: 'Bubbles of nothing: the tunneling potential approach'
     year: '2024'
   Zj2wX9MAAAAJ:UeHWp8X0CEIC:
-    citations: 18
+    citations: 19
     title: Exactly solvable vacuum decays with gravity
     year: '2021'
   Zj2wX9MAAAAJ:W7OEmFMy1HYC:
@@ -26,15 +26,15 @@ papers:
     title: 'Wet Hair: Global Symmetries in Entanglement Islands'
     year: '2025'
   Zj2wX9MAAAAJ:Y0pCki6q_DkC:
-    citations: 13
+    citations: 12
     title: 'Relative quantum gravity: localized gravity and the swampland'
     year: '2025'
   Zj2wX9MAAAAJ:YsMSGLbcyi4C:
-    citations: 3
+    citations: 4
     title: Global Symmetries in Entanglement Islands
     year: Unknown Year
   Zj2wX9MAAAAJ:d1gkVwhDpl0C:
-    citations: 24
+    citations: 25
     title: 'SymTFT Fans: The symmetry theory of 4d  = 4 super Yang-Mills on spaces with boundaries'
     year: '2025'
   Zj2wX9MAAAAJ:qjMakFHDy7sC:
@@ -42,14 +42,10 @@ papers:
     title: 'At the end of the world: Local Dynamical Cobordism'
     year: '2022'
   Zj2wX9MAAAAJ:u-x6o8ySG0sC:
-    citations: 11
-    title: End of the World Brane Dynamics in Holographic 4d  SU(N) with 3d  Boundary Conditions
-    year: '2024'
+    citations: 12
+    title: End of the world brane dynamics in holographic 4d  = 4 SU(N) with 3d  = 2 boundary conditions
+    year: '2025'
   Zj2wX9MAAAAJ:u5HHmVD_uO8C:
     citations: 12
     title: Pseudo-bounces vs. new instantons
     year: '2021'
-  Zj2wX9MAAAAJ:zYLM7Y9cAGgC:
-    citations: 1
-    title: 'SymTFT Fans: The Symmetry Theory of 4d N= 4 Super Yang-Mills on spaces with boundaries'
-    year: '2024'
