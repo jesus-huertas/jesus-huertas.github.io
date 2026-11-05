@@ -1,189 +1,140 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Jesús Huertas
+  label: Simons-Balseiro Postdoctoral Fellow
+  email: jesus.huertas@ib.edu.ar
+  location: Instituto Balseiro, San Carlos de Bariloche, Argentina
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    - network: ORCID
+      username: 0000-0001-8230-9543
+    - network: Google Scholar
+      username: Zj2wX9MAAAAJ
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Instituto Balseiro
+        position: Simons-Balseiro Postdoctoral Fellow
+        location: Bariloche, Argentina
+        start_date: 2025-10
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Parental leave (4 months) in 2026
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Universidad Autónoma de Madrid
+        position: Teaching Assistant
+        location: Madrid, Spain
+        start_date: 2021-09
+        end_date: 2025-06
         highlights:
-          - Description 1.
-          - Description 2.
+          - "*Physics Laboratory*, Chemistry Degree (2021–2022, 2024–2025)"
+          - "*Quantum Mechanics I*, Physics Degree (2022–2023, 2023–2024)"
+          - "*General Physics*, Telecommunications Engineering Degree (2023–2024)"
+          - "*Foundations of Physics III*, Physics Degree (2022–2023)"
+          - "*Classical Mechanics*, Physics Degree (2021–2022)"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+    Education:
+      - institution: Harvard University
+        area: Research stay
+        degree: Fellow
+        location: Cambridge, MA, USA
+        start_date: 2024-02
+        end_date: 2024-05
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - institution: Instituto de Física Teórica UAM-CSIC
+        area: Theoretical Physics
+        degree: PhD
+        location: Madrid, Spain
+        start_date: 2021
+        end_date: 2025-09
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Advisor: Prof. Ángel Uranga"
+
+      - institution: Universidad Autónoma de Madrid
+        area: Theoretical Physics
+        degree: MSc
+        location: Madrid, Spain
+        start_date: 2020
+        end_date: 2021
+
+      - institution: Universidad Complutense de Madrid
+        area: Physics
+        degree: BSc
+        location: Madrid, Spain
+        start_date: 2016
+        end_date: 2020
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Simons-Balseiro Postdoctoral Fellowship
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - Jesús Huertas
+        date: 2025
+        awarder: Simons Foundation and Instituto Balseiro
 
-      - title: Max Planck Medal
+      - title: "Yo investigo, yo soy CSIC outreach award (€3,000)"
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - Jesús Huertas
+        date: 2023
+        awarder: CSIC
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Contrato FPU (PhD fellowship, 2021–2025)
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Jesús Huertas
+        date: 2021
+        awarder: Spanish Government
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Premio Extraordinario de Grado
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Jesús Huertas
+        date: 2020
+        awarder: Universidad Complutense de Madrid
+        summary: Award for the best academic record in the BSc.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Beca de colaboración (research fellowship, 2019–2020)
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Jesús Huertas
+        date: 2019
+        awarder: Spanish Government
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Work in Progress:
+      - bullet: DGP gravity from string theory, with E. Anastasi, R. Angius, A. M. Uranga, C. Wang (near completion)
+      - bullet: Islands and gravity localization, with M. Riojas
+      - bullet: Euclidean wormholes and the imaginary distance bound from tunneling potentials, with J. R. Espinosa
+      - bullet: Line operator SymTFTs from the Coulomb branch, with P. C. Argyres, A. Banerjee, A. Bourget, J. F. Grimminger, M. Lotito, S. Thakur, M. Weaver
+      - bullet: Brane origin of type IIB multi-Janus solutions, with C. Mascherpa, A. M. Uranga
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+    Invited Talks and Seminars:
+      - bullet: "*Anomalies at SUSY Interfaces of String Theory*, invited talk, Simons-Balseiro School and Workshop on Advanced Aspects of QFT, Instituto Balseiro, Bariloche (May 2026)"
+      - bullet: "*Relative Quantum Gravity: Localized Gravity and the Swampland*, invited seminar, Max Planck Institute, Munich (Jun 2025)"
+      - bullet: "*Relative Quantum Gravity: Localized Gravity and the Swampland*, invited seminar, Heidelberg University (Feb 2025)"
+      - bullet: "*SymTFT Fans: The Symmetry Theory of 4d N=4 Super Yang–Mills on Spaces with Boundaries*, invited seminar, Universidad de Murcia (Nov 2024)"
+      - bullet: "*Bubbles of Nothing: The Tunneling Potential Approach*, invited seminar, Tufts University (Apr 2024)"
+      - bullet: "*Dynamical Cobordism in AdS/CFT*, invited seminar, Northeastern University (Apr 2024)"
 
-      - name: English
-        summary: "Fluent"
+    Other Talks and Posters:
+      - bullet: "*Lessons from Quantum Gravity and Holographic End-of-the-World Branes*, seminar, Instituto Balseiro, Bariloche (Feb 2026)"
+      - bullet: "*Relative Quantum Gravity: Localized Gravity and the Swampland*, poster, Iberian Strings 2025, Bilbao (Jan 2025)"
+      - bullet: "*Relative Quantum Gravity: Localized Gravity and the Swampland*, seminar, Harvard University (Jan 2025)"
+      - bullet: "*Topological Couplings in Holographic End-of-the-World Branes from String Theory*, String Pheno Seminars, online (Oct 2024)"
+      - bullet: "*Dynamical Cobordism in AdS/CFT*, parallel talk, String Phenomenology 2024, Padova (Jun 2024)"
+      - bullet: "*Supersymmetric Boundary Conditions for the End of Spacetime*, parallel talk, SUSY24, IFT, Madrid (Jun 2024)"
+      - bullet: "*Dynamical Cobordism in AdS/CFT*, poster, Strings 2024, CERN, Geneva (Jun 2024)"
+      - bullet: "*Bubbles of Nothing: The Tunneling Potential Approach*, seminar, Harvard University (Mar 2024)"
+      - bullet: "*Dynamical Cobordism in AdS/CFT*, String Pheno Seminars, online (Jan 2024)"
+      - bullet: "*Dynamical Cobordism in AdS/CFT*, talk, 7th Winter Workshop, Universidad de Valencia (Dec 2023)"
+      - bullet: "*Bubbles of Nothing: A Tunneling Potential Approach*, talk, Madrid Winter Workshop 2022, Universidad Complutense de Madrid (Dec 2022)"
+      - bullet: "*Quantum Tunneling: From Bubbles of Nothing to String Theory Dynamical Cobordism*, parallel talk, String Phenomenology 2022, Liverpool (Jul 2022)"
+      - bullet: "*At the End of the World: Local Dynamical Cobordism*, seminar, IFT, Madrid (Mar 2022)"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Student Supervision:
+      - bullet: "Co-advisor (with Gerardo Aldazábal) of Julián Flores' BSc thesis, *String Theory and the Dark Dimension Scenario*, Instituto Balseiro (2026)"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    Refereeing:
+      - bullet: Referee for the Journal of High Energy Physics since May 2023
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Outreach:
+      - bullet: "Advisor of Leo Corpas Martínez's final high school essay, *About the Possibility of Time Travel* (2025–2026)"
+      - bullet: "Outreach video in Spanish on why mathematics works, *¿Por qué funcionan las matemáticas?*, IFT YouTube channel, over 50k views (Sep 2023)"
+      - bullet: "Helped at *Escape-road: In search of Nobel and non-Nobel women scientists*, an event for schoolchildren at the European Researchers' Night (Sep 2023)"
+      - bullet: "Invited speaker at *Tarde de Física*, an advanced outreach session for undergraduate physics students (May 2023)"
+      - bullet: "Three-minute outreach video on my research on bubbles of nothing (Mar 2023)"
+      - bullet: "High school outreach talks on black holes, cosmology, the history of the universe, astronomy, and quantum computers (2021–2025)"

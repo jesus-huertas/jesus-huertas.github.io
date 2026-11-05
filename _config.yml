@@ -9,13 +9,14 @@ last_name: Huertas
 contact_note: >
   Whether you’d like to discuss research, ask a question, or simply connect, I’d be glad to hear from you!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Jesús Huertas, theoretical physicist working on string theory and quantum gravity. Simons-Balseiro Postdoctoral Fellow at Instituto Balseiro.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: string theory, quantum gravity, holography, swampland, end-of-the-world branes, Jesús Huertas
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+apple_touch_icon: # image name in /assets/img/ used for iOS home-screen bookmarks (180x180 PNG)
 
 url: https://jesus-huertas.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -30,8 +31,9 @@ back_to_top: true # set to false to disable the back to top button
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+protect_email: false
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -39,7 +41,7 @@ repo_trophies:
 # To use a different instance or service for displaying GitHub stats and trophies,
 # update these URLs. These are used in the repository templates.
 external_services:
-  github_readme_stats_url: https://github-readme-stats.vercel.app
+  github_readme_stats_url: https://github-stats-extended.vercel.app
   github_profile_trophy_url: https://github-profile-trophy.vercel.app
 
 # -----------------------------------------------------------------------------
@@ -56,7 +58,7 @@ al_folio:
   distill:
     engine: distillpub-template
     source: al-org-dev/distill-template#al-folio
-    allow_remote_loader: true
+    allow_remote_loader: false
   features:
     cv:
       enabled: true
@@ -158,17 +160,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-    categories: [external-posts]
-    tags: [medium]
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
-    categories: [external-posts]
-    tags: [google]
+external_sources: [] # template demo feeds removed
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -215,6 +207,8 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - AGENTS.md
+  - CLAUDE.md
   - al-folio-upgrade-report.md
   - bin/
   - CONTRIBUTING.md
@@ -243,6 +237,10 @@ exclude:
   - _pages/dropdown.md
   - _pages/repositories.md
   - _pages/teaching.md
+  # template demo content, hidden but kept in the repo
+  - _posts/
+  - _projects/
+  - _teachings/
 keep_files:
   - CNAME
   - .nojekyll
@@ -290,6 +288,9 @@ plugins:
   - al_math
   - al_comments
   - al_newsletter
+  - al_email_protect
+  - al_marimo
+  - al_rtl
 
 # Sitemap settings
 defaults:
@@ -626,10 +627,6 @@ third_party_libraries:
     url:
       js: "https://cdn.jsdelivr.net/npm/plotly.js@{{version}}/dist/plotly.min.js"
     version: "3.0.1"
-  polyfill:
-    url:
-      js: "https://cdnjs.cloudflare.com/polyfill/v{{version}}/polyfill.min.js?features=es6"
-    version: "3"
   pseudocode:
     integrity:
       css: "sha256-VwMV//xgBPDyRFVSOshhRhzJRDyBmIACniLPpeXNUdc="
