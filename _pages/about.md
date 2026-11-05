@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Simons-Balseiro Postdoctoral Fellow at Instituto Balseiro in Bariloche, Argentina, working on string theory and quantum gravity. I did my PhD at the Instituto de Física Teórica (IFT UAM-CSIC) in Madrid under the supervision of Ángel Uranga, including a research stay at Harvard University in 2024.
+I am a Simons-Balseiro Postdoctoral Fellow at Instituto Balseiro in Bariloche, Argentina, working on string theory and quantum gravity. I did my PhD at the Instituto de Física Teórica (IFT UAM-CSIC) in Madrid under the supervision of Ángel Uranga.
 
-Much of my research revolves around one question: what happens where spacetime ends? This takes me to end-of-the-world branes and the Cobordism Conjecture, localized gravity and double holography, entanglement islands and the black hole information problem, generalized symmetries and SymTFTs, and the Swampland program. I am also interested in vacuum decay and bubbles of nothing, which I study using the tunneling potential formalism.
+Much of my research revolves around one question: **what happens where spacetime ends?** According to the Cobordism Conjecture, a key piece of the Swampland program, any consistent theory of quantum gravity must allow spacetime to have boundaries. I study the end-of-the-world branes that make this possible, and what they teach us about gravity.
 
-Beyond research, I enjoy doing science outreach.
+In holography, these boundaries can trap gravity on a brane. This connects my work to double holography, entanglement islands and the black hole information problem. The same boundaries also leave their imprint on symmetries, which I explore through generalized symmetries and SymTFTs.
+
+Spacetime can also end dynamically: a false vacuum can decay, and extra dimensions can collapse in a bubble of nothing. I study these processes with the tunneling potential formalism.
+
+Beyond physics, I enjoy science outreach, reading the classics, and getting out into nature on long treks.
